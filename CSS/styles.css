@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  text-align: center !important;
+}
+h1 {
+  margin-top: 10px !important;
+  font-size: 6rem !important;
+  font-weight: bolder !important;
+  font-family: "Sacramento", cursive !important;
+  color: #66bfbf !important;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 2.5rem !important;
+  color: #66bfbf !important;
+  line-height: 1.5;
+}
+hr {
+  margin-top: 50px !important;
+  border-top: 5px dotted grey !important;
+  width: 5% !important;
+}
+
+/* Title */
+#title {
+  background-color: #eaf6f6;
+  font-family: "Montserrat";
+}
+.nav-link {
+  color: teal !important;
+}
+.navbar-toggler {
+  color: teal !important;
+}
+
+/* Title-Images */
+.mountain {
+  width: 70%;
+  position: relative;
+}
+.top-cloud {
+  position: relative;
+  left: 900px;
+}
+.bottom-cloud {
+  margin-left: 200px;
+}
+
+/* Middle-Container */
+#middle-container {
+  padding: 7% 15%;
+}
+.profile-img {
+  width: 20%;
+}
+.profile-heading-text {
+  color: black;
+}
+.profile-text {
+  position: relative;
+  top: 10px;
+}
+
+/* Skills */
+#skills {
+  margin-top: 100px;
+  font-family: "Montserrat";
+}
+.skills-text-heading {
+  color: #66bfbf !important;
+}
+.skills-text {
+  text-align: left;
+  margin-top: 50px !important;
+  padding-left: 100px !important;
+  padding-right: 150px !important;
+}
+.second-skills-text {
+  padding-left: 300px !important;
+  text-align: left;
+}
+.skill-img {
+  width: 50% !important;
+  position: relative;
+  left: 100px;
+}
+.skill-img-2 {
+  width: 30%;
+  position: relative;
+  right: 178px;
+}
+
+/* Contact */
+#contact {
+  padding: 7% 15%;
+}
+.contact-text {
+  margin-top: 10px !important;
+}
+.btn {
+  color: #11999e !important;
+  left: 200px !important;
+  border-color: #11999e !important;
+}
+.btn:hover {
+  background-color: #11999e !important;
+  color: #eaf6f6 !important;
+}
+
+/* Footer */
+#footer {
+  padding: 7% 15%;
+  background-color: #11999e;
+}
+.fab {
+  color: #eaf6f6;
+  margin-left: 20px;
+  margin-right: 20px;
+}
